@@ -1,11 +1,6 @@
 # API_Notes
 
-Question/Tasks to Check Later On:
-1. Try to make it at least once
-2. Check Selection Idea
-
 *For Sending and Checking Requests, Responses use PostMan App
-**You might also when sending Status consoleLog the problem, so it is actually easier to understand
 
 https://www.youtube.com/watch?v=b8ZUb_Okxro&t=2241s
 1. Init & Install Packages
